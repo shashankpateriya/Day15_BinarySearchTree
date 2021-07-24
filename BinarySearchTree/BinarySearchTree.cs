@@ -78,7 +78,5 @@ namespace BinarySearchTree
                 IfExists(element, node.rightTree);
             return result;
         }
-
-
     }
 }
