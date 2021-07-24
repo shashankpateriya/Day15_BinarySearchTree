@@ -17,7 +17,6 @@ namespace BinarySearchTree
             this.leftTree = null;
 
         }
-
         int leftCount = 0, rightCount = 0;
         bool result = false;
         public void Insert(T item)

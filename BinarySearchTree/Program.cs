@@ -13,5 +13,4 @@ namespace BinarySearchTree
             binarySearch.Display();
         }
     }
-
 }
